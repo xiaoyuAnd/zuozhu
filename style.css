@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    height: 80px;
+    background-color: #ccc;
+    line-height: 80px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    flex: 2;
+}
+
+.header_ul {
+    display: flex;
+    justify-content: space-around;
+    flex: 6;
+}
